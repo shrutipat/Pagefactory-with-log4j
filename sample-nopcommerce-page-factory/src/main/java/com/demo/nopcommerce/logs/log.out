@@ -1,0 +1,23 @@
+2019-05-14 21:05:551 INFO  HomePage :79 - Click on Computer Link
+2019-05-14 21:05:453 INFO  ComputerPage :45 - click on Desktop image
+2019-05-14 21:05:283 INFO  DesktopPage :47 - click on add to cart button
+2019-05-14 21:05:750 INFO  BuildYourOwnPage :36 - Click on Hdd 320GB
+2019-05-14 21:05:863 INFO  BuildYourOwnPage :46 - click on Add to Cart
+2019-05-14 21:05:965 INFO  BuildYourOwnPage :41 - check if item is added successfully
+2019-05-14 21:05:713 INFO  HomePage :59 - Click on Login Link
+2019-05-14 21:05:119 INFO  LoginPage :31 - Enter email address
+2019-05-14 21:05:448 INFO  LoginPage :36 - Enter password
+2019-05-14 21:05:574 INFO  LoginPage :41 - Click on Login Button
+2019-05-14 21:05:972 INFO  HomePage :79 - Click on Computer Link
+2019-05-14 21:05:492 INFO  ComputerPage :45 - click on Desktop image
+2019-05-14 21:05:314 INFO  DesktopPage :47 - click on add to cart button
+2019-05-14 21:05:465 INFO  BuildYourOwnPage :31 - Click on Login Link
+2019-05-14 21:05:770 INFO  HomePage :79 - Click on Computer Link
+2019-05-14 21:05:293 INFO  ComputerPage :40 - Get computer Test
+2019-05-14 21:05:418 INFO  HomePage :79 - Click on Computer Link
+2019-05-14 21:05:406 INFO  ComputerPage :45 - click on Desktop image
+2019-05-14 21:05:207 INFO  DesktopPage :52 - Get desktop text
+2019-05-14 21:05:248 INFO  HomePage :59 - Click on Login Link
+2019-05-14 21:05:550 INFO  LoginPage :46 - Get welcome text
+2019-05-14 21:05:285 INFO  HomePage :64 - Click on Register Link
+2019-05-14 21:05:192 INFO  RegistrationPage :128 - Click on Register Text

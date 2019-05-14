@@ -1,0 +1,6 @@
+com\demo\nopcommerce\webpages\HomeTest.class
+com\demo\nopcommerce\testbase\TestBase.class
+com\demo\nopcommerce\webpages\DesktopTest.class
+com\demo\nopcommerce\webpages\TestSuit.class
+com\demo\nopcommerce\webpages\ComputerTest.class
+com\demo\nopcommerce\webpages\LoginTest.class
